@@ -1,6 +1,6 @@
 {
   "name": "mcp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "\ud83e\udd16 Taskade MCP \u00b7 Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
   "main": "src/index.ts",
   "scripts": {
